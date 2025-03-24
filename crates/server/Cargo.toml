@@ -10,3 +10,7 @@ documentation.workspace = true
 [[bin]]
 name = "ruvo_server"
 path = "src/main.rs"
+
+[dependencies]
+ahash = "0.8.11"
+dashmap = "6.1.0"
