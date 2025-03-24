@@ -3,11 +3,11 @@
 version = 4
 
 [[package]]
-name = "ruvo_cli"
+name = "ruvo"
 version = "0.0.0-reserved"
 
 [[package]]
-name = "ruvo_sdk"
+name = "ruvo_cli"
 version = "0.0.0-reserved"
 
 [[package]]
