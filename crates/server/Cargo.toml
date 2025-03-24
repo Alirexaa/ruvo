@@ -1,0 +1,12 @@
+[package]
+name = "ruvo_server"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+authors.workspace = true
+description.workspace = true
+documentation.workspace = true
+
+[[bin]]
+name = "ruvo_server"
+path = "src/main.rs"

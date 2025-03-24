@@ -1,0 +1,11 @@
+[workspace]
+members = ["crates/cli","crates/sdk","crates/server"]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+version = "0.0.0-reserved"
+license = "Apache-2.0"
+authors = ["Alireza Baloochi"]
+description = "Fast and Blaze in memory cache db"
+documentation = "https://example.com/bar"

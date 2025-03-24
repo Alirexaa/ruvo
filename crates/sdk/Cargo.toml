@@ -1,0 +1,8 @@
+[package]
+name = "ruvo_sdk"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+authors.workspace = true
+description.workspace = true
+documentation.workspace = true
